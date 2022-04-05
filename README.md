@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tadas-mockus
 - 👀 I’m interested in career oportunities
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently working with JavaScript
 - 📫 How to reach me: tadas.mockus@outlook.com
 
 <!---
